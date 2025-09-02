@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sage-apogee-470903-v1",
+  "private_key_id": "0e5cd365dc0a0848cbe051ea23f3c5f3637b777b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC8Q7GqpGHn0xyI\nHlAII0PbnJMoaQyOaz9jOuPyzM0Gh9Z+k9GQXFLPlCKM36wOPAVuHC+9o/huCta8\nAfKR3Qb1lJLl2ADTWYJvPr8ICq7auzW657ammmCw8VnPs5lHiQ5+0XUa9LM5+LFQ\nWpT0xsddz5vgr12FmH+gXNnuIIEHR1TOU5lntQ8WMWsY8KBDsznc6zSaRW6Cpvd0\ng0haiE3OmbCstKDKMQchZYuhqs1FQQPns3gehtoumLi2eRCqRUCwzukywi/5GpkE\n0jJsfCb43Nq/izCgesK6ujSzTLh8imdBy0OD/z5Axir6CTEtWh37TvRnIgxasoy1\nvR+/pag/AgMBAAECggEAVchqnhyE2AMjzwow4WRgOSMhEpq7M/G+UlK1Jx8WlNE0\ndTyZkrPer+MJ0zLfzSSgPMnvHvQl8M5ThhtFEh2qXCA0xzIjPipc+p+Wn+1uOxBu\nrRmD6moRgM6YY8GsKCJVTofWWlABknq1IK4FjXs9wIsmtbxyWrtf/AwS6SQ6ZrvZ\n55AuZxVEcJv+M8l4Tag8vZ4+6gFNJTtSA2EeuWVNhXzkkeXqBqkVvTNWbEEcJeTa\nFLE7uePyM9w5ORrfiA/BwQqzODPPqCjtj2Ah3shKkgj10UUajtWGka2fueHeBCXH\nQCm/oHiuHLCl/OkAvjA/AR7gohiU9ODqiHjBUeeN8QKBgQD8pYVqV9AJGzcM5M0I\nxb9flXSsHTuLRJ8ndGi6wJtVnTUAtoaVhrDCmRbLqV2guXgdJklds6blK6dmJ832\nEWse7qXgChTYssJfJeZTdoU4EuBK1gIwdwuo0JpDkqLyAV1I6fRUt6XT24tOl6rP\nUfEE89+TGiVO5fqTFiHS2j+VAwKBgQC+w2ftm1MwAVFxdcH/pDd9BpwyhMCUpIFh\nfc4ZrQaK87M7BbWmENf2tNetZ6GliJHqdn6N4g5nTigPFAaJG/P0Ym7Q3MPWSgai\nApqXJb9wSv605KhuDFH1fLNHUosEYFzFaOQNCoQwT88Cd+C5wISSY/zZmkTYXKW8\nvrKV9vclFQKBgQCokoiCfDUC3nXM1J05zTfzvvUqIhcoxZCr8rAua3U5mrtSznbe\nLhCixyK+oTMnmpjaWkF5k/U30/jN4KE8HkMrUHC9G/zs2dl3QwJ7jgk1cOLXDBRJ\n4iSVbxp/G8g9UUu86t1r6V1sDoDU373ItxPqCg6TSE68ZhbbLVlEJvtloQKBgQC4\n7J6UBM2orK5x6bDNjDjKN501j+FMdwiBJL6lv0inbMUjg05rFMr2eqrVi69006Z3\n/rSCAFDsLiTBMS2AvptIHh/E0y35TruNVC7eNRaW2ex+GWd5fvH4oxD8I/VlobBt\nIlhol/g7CTLo9qLgDtO1Qb58h4MTpwR3qvleTRGaXQKBgQCWOIX2ml2bRkZArdiC\nX9JhpJK6psXwpYUX9NU8zndpGPHAm9kwWEqJ1NQ1uSbj45PdA87s50eBoKLtkcuX\nMLa/SXu40wUhv/9lusWg8ZPHzyETtszx0/itsqU2mLOh9AhSBsCYT5VdKQgg7upX\nPRRqPJyyA/6bNavoC6dXr/1NCw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "truck-bot-sa@sage-apogee-470903-v1.iam.gserviceaccount.com",
+  "client_id": "105627351060134470760",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/truck-bot-sa%40sage-apogee-470903-v1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
